@@ -1,4 +1,4 @@
-# Bridging Tokens with fxPortal - rawrNFT
+# Bridging Tokens with fxPortal - srjNFT
 
 rawrNFT is an ERC721A compliant NFT contract that allows the owner to mint NFTs with specific URLs and prompts. The contract is built using Solidity and leverages the OpenZeppelin library for ownership management. Additionally, this project includes scripts to deploy and interact with the contract using Hardhat.
 
@@ -47,7 +47,7 @@ The constructor initializes the contract with the name rawrNFT and the symbol RW
 ### Installation
 1. Clone the repository:
   ```shell
-  git clone https://github.com/imankush10/poly-1
+  git clone https://github.com/Suraj1421/poly-1
   cd poly-1
   ```
 2. Install dependencies:
@@ -92,7 +92,7 @@ npx hardhat help
 This command provides a list of available tasks and commands in Hardhat, along with descriptions and usage instructions. It is useful for understanding how to deploy, test, and interact with your smart contracts within the Hardhat environment.
 
 ## Authors
-Ankush Kumar
+Suraj Singh
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
